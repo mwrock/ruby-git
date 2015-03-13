@@ -1,3 +1,4 @@
+test
 # Git Library for Ruby
 
 Library for using Git in Ruby.
